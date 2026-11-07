@@ -31,3 +31,5 @@ class ClingoApp(clingo.application.Application):
 
 if __name__ == "__main__":
     clingo.application.clingo_main(ClingoApp())
+
+    
